@@ -67,3 +67,4 @@ To design an interactive healthcare analytics dashboard that:
 • Supports data-driven operational and financial decisions.
 
 ## 6.	Screenshot:
+Example: ![Dashboard Preview](https://github.com/YS-Analytics/Hospital-Analysis-Dashboard/blob/main/Dashboard/Overview.png)
