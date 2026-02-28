@@ -1,4 +1,4 @@
-# Hospital-Analysis-dashboard
+# Hospital-Analysis-dashboard 
 ## 1.	Project Title:
 🏥HealthMetrics: Hospital Performance & Patient Insights Dashboard
 
@@ -68,3 +68,6 @@ To design an interactive healthcare analytics dashboard that:
 
 ## 6.	Screenshot:
 Example: ![Dashboard Preview](https://github.com/YS-Analytics/Hospital-Analysis-Dashboard/blob/main/Dashboard/Overview.png)
+
+## 7. Project Link:
+https://app.powerbi.com/view?r=eyJrIjoiZWJiOTJjNzgtNzYyOS00MjdhLWE2NzItYzUzMjAzM2U4NTZjIiwidCI6IjQ3MDI3YTE1LTA5YWItNGYwNC1hZGZjLTE3ZDc0OWMzNWIwMCJ9&pageName=86197b600ed4c02536db
